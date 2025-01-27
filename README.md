@@ -30,4 +30,4 @@ Some of my interests include:
 
 [Link to my GitHub](https://github.com/BrendanPlau)
 
-![alt text](image.jpg)
+![frog or toad?](DSC00248.JPG)
