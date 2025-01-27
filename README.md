@@ -1,3 +1,3 @@
 # ECE-322
-## Engineering Design VI at Stevens Institute of Technology
+## Brendan Lau
 ### Bachelor of Engineering - Electrical Engineering
