@@ -6,7 +6,7 @@
 
 ---
 
-My favorite numbers 1-10:
+**My favorite numbers 1-10:**
 1. 7
 2. 2
 3. 1
@@ -18,7 +18,7 @@ My favorite numbers 1-10:
 9. 9
 10. 10
 
-Some of my interests include: 
+**Some of my interests include:** 
 - Skiing
 - Going to the gym
 - Rocket League
