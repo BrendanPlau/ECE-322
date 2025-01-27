@@ -26,7 +26,7 @@ Some of my interests include:
 
 ---
 
-`This is code`
+`printf("Hello, World!");`
 
 [Link to my GitHub](https://github.com/BrendanPlau)
 
